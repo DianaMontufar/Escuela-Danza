@@ -1,0 +1,150 @@
+/*Global*/
+*{
+	font-family: "Latolight";
+}
+
+@font-face{
+	font-family: LatoHeavy;
+	src: url(../fonts/LatoHeavy.ttf);
+}
+@font-face{
+	font-family:Latolight ;
+	src: url(../fonts/Latolight.ttf);
+}
+@font-face{
+	font-family: DolceVita;
+	src: url(../fonts/DolceVita.ttf);
+}
+@font-face{
+	font-family: Neoteric-Bold;
+	src: url(../fonts/Neoteric-Bold.ttf);
+}
+@font-face{
+	font-family: Lato-Regular;
+	src: url(../fonts/Lato-Regular.ttf);
+}
+@font-face{
+	font-family: Lato-Medium;
+	src: url(../fonts/Lato-Medium.ttf);
+}
+
+
+/* Shortcuts */
+.text-center {
+	text-align: center;
+}
+.text-azul{
+	color: #192951;
+}
+.text-right {
+	text-align: right;
+}
+.pd-r-10{
+	padding-right: 10px;
+}
+.pd-l-10{
+	padding-left: 10%;
+}
+.pd-l-5{
+	padding-left: 5%;
+}
+.pd-0{
+	padding: 0;
+}
+.pd-1{
+	padding: 1%;
+}
+.pd-5{
+	padding: 5%;
+}
+.pd-10{
+	padding: 10%;
+}
+.pd-5{
+	padding: 5%;
+}
+.pd-2{
+	padding: 2%;
+}
+.pd-t-3{
+	padding-top: 3%;
+}
+.pt-5{
+	padding-top: 5%;
+}
+.pt-8{
+	padding-top: 8%;
+}
+.pt-10{
+	padding-top: 10%;
+}
+.pb-5{
+	padding-bottom: 5%;
+}
+.pd-rl-20{
+	padding-left: 20%;
+	padding-right: 20%
+}
+.pt-50{
+	padding-top: 50%;
+}
+.pd-rl-5{
+	padding-left: 5%;
+	padding-right: 5%
+}
+.pd-rl-10{
+	padding-left: 10%;
+	padding-right: 10%
+}
+.mg-0{
+	margin: 0;
+}
+.mg-l-0{
+	margin-left: 0px;
+}
+.mg-r-0{
+	margin-right: 0px;
+}
+.mg-l-r-5{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+.w-100{
+	width: 100%;
+}
+.lh{
+	line-height: 1.5;
+}
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}
+.text-white{
+	color: white;
+}
+.text-gray{
+	color: rgb(83, 88, 95);
+}
+.text-blue{
+ color: #192951;
+}
+.a-none-decoration{
+	text-decoration: none;
+}
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+.height-0{
+	height: 0px;
+}
+.bg-img-block{
+	background-size: cover;
+	background-repeat: no-repeat;
+	/*background-position: center;*/
+	background-position: 0 20%;
+}
+.text-size14{
+	font-size: 14px;
+}
